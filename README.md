@@ -21,12 +21,25 @@ This repo contains the code, data, and models for "[Breaking Language Barriers i
 
 <br>
 <div align="center">
-  <img src="model.png" width="80%" title="Introduction Figure">
+  <img src="new_model.png" width="90%" title="Introduction Figure">
 </div>
 
 ## Official Website
 
-### Datasets 
+### 🤗Datasets 
+
+Our collected MGSM8KInstruct training dataset and MSVAMP testset both contain 10 languages:
+
+- Spanish
+- French
+- German
+- Russian
+- Chinese
+- Japanese
+- Thai
+- Swahili
+- Bengali
+- Telugu
 
 #### **MGSM8KInstruct**
 
@@ -45,21 +58,24 @@ This repo contains the code, data, and models for "[Breaking Language Barriers i
 
 Our dataset and models are all available at Huggingface.
 
-🦑
+🦑🦑🦑🦑
+
 🤗 [MGSM8KInstruct_Parallel Dataset](https://huggingface.co/datasets/Mathoctopus/GSM8KInstruct_Parallel)
+
+🤗 [MGSM8KInstruct_Cross Dataset](https://huggingface.co/datasets/Mathoctopus/MGSM8KInstruct_Cross)
 
 🤗 [MSVAMP Dataset](https://huggingface.co/datasets/Mathoctopus/MSVAMP)
 
 
 Or you can directly download them in our data folder.
 
-##  Models
+##  🤗Models
 |  Base Model: LLama   	| Parallel-Training                                         	| Cross-Training                                                       	|
 |-----	|---------------------------------------------------------------	|---------------------------------------------------------------------------	|
 | 7B-LLaMA 2  	| 🐙 [MathOctopus-Parallel-7B](https://huggingface.co/Mathoctopus/Parallel_7B)   	| 🐙 [MathOctopus-Cross-7B](https://huggingface.co/Mathoctopus/Cross_7B)  	|
 || 🐙[MathOctopus-Parallel-xRFT-7B](https://huggingface.co/Mathoctopus/Parallel_xRFT_7B)|🐙[MathOctopus-Cross-xRFT-7B](https://huggingface.co/Mathoctopus/Cross_xRFT_7B)|
-| 13B-LLaMA 2 	| 🐙 [MathOctopus-Parallel-13B] 	| 🐙 [MathOctopus-Cross-13B]	|
-|| 🐙[MathOctopus-Parallel-xRFT-13B](https://huggingface.co/Mathoctopus/Parallel_xRFT_13B)|🐙[MathOctopus-Cross-xRFT-13B](https://huggingface.co/Mathoctopus/Cross_xRFT_7B)|
+| 13B-LLaMA 2 	| 🐙 [MathOctopus-Parallel-13B](https://huggingface.co/Mathoctopus/Parallel_13B/tree/main) 	| 🐙 [MathOctopus-Cross-13B](https://huggingface.co/Mathoctopus/Cross_13B)	|
+|| 🐙[MathOctopus-Parallel-xRFT-13B](https://huggingface.co/Mathoctopus/Parallel_xRFT_13B)|🐙[MathOctopus-Cross-xRFT-13B]|
 | 33B-LLaMA 1 	| 🐙 [MathOctopus-Parallel-33B]                                                           	| 🐙 [MathOctopus-Cross-33B] 	|
 | 70B-LLaMA 2 	| Coming soon!	| Coming Soon!      |
 
