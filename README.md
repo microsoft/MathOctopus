@@ -314,7 +314,14 @@ bash training_scripts/single_node/run_llama_30b.sh
 Please cite our paper if you use our data, model or code. Please also kindly cite the original dataset papers. 
 
 ```
-
+@misc{chen2023breaking,
+      title={Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations}, 
+      author={Nuo Chen and Zinan Zheng and Ning Wu and Linjun Shou and Ming Gong and Yangqiu Song and Dongmei Zhang and Jia Li},
+      year={2023},
+      eprint={2310.20246},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 
