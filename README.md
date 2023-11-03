@@ -13,7 +13,7 @@ This work pioneers exploring and building powerful  Multilingual Math Reasoning 
 
 
 # 🐙🐙**MathOctopus** 🐙🐙
-This repo contains the code, data, and models for "[Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations]"
+This repo contains the code, data, and models for "[**Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations**](https://arxiv.org/abs/2310.20246)"
 
 <div align="center">
  🔥 🔥 🔥 Check out our <a href = "https://mathoctopus.github.io/">[Project Page]</a> for more results and analysis!
