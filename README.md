@@ -1,7 +1,7 @@
 
 # Overview
 
-This repository contains resources for accessing the official benchmarks, codes, and checkpoints of the paper: "[**Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations**]((https://arxiv.org/abs/2310.20246))".
+This repository contains resources for accessing the official benchmarks, codes, and checkpoints of the paper: "[**Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations**](https://arxiv.org/abs/2310.20246)".
 
 
 This work pioneers exploring and building powerful  Multilingual Math Reasoning (xMR) LLMs. To accomplish this, we make the following works:
