@@ -76,8 +76,8 @@ Or you can directly download them in our data folder.
 | 7B-LLaMA 2  	| 🐙 [MathOctopus-Parallel-7B](https://huggingface.co/Mathoctopus/Parallel_7B)   	| 🐙 [MathOctopus-Cross-7B](https://huggingface.co/Mathoctopus/Cross_7B)  	|
 || 🐙[MathOctopus-Parallel-xRFT-7B](https://huggingface.co/Mathoctopus/Parallel_xRFT_7B)|🐙[MathOctopus-Cross-xRFT-7B](https://huggingface.co/Mathoctopus/Cross_xRFT_7B)|
 | 13B-LLaMA 2 	| 🐙 [MathOctopus-Parallel-13B](https://huggingface.co/Mathoctopus/Parallel_13B/tree/main) 	| 🐙 [MathOctopus-Cross-13B](https://huggingface.co/Mathoctopus/Cross_13B)	|
-|| 🐙[MathOctopus-Parallel-xRFT-13B](https://huggingface.co/Mathoctopus/Parallel_xRFT_13B)|🐙[MathOctopus-Cross-xRFT-13B]|
-| 33B-LLaMA 1 	| 🐙 [MathOctopus-Parallel-33B]                                                           	| 🐙 [MathOctopus-Cross-33B] 	|
+|| 🐙[MathOctopus-Parallel-xRFT-13B](https://huggingface.co/Mathoctopus/Parallel_xRFT_13B)|🐙[MathOctopus-Cross-xRFT-13B](https://huggingface.co/Mathoctopus/Cross_xRFT_13B/tree/main)|
+| 33B-LLaMA 1 	| 🐙 [MathOctopus-Parallel-33B](https://huggingface.co/Mathoctopus/Parallel_33B/tree/main)                                                           	| 🐙 [MathOctopus-Cross-33B](https://huggingface.co/Mathoctopus/Cross_33B/tree/main) 	|
 | 70B-LLaMA 2 	| Coming soon!	| Coming Soon!      |
 
 *-Parallel refers to our model trained with the parallel-training strategy. 
