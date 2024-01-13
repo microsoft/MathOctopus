@@ -11,6 +11,11 @@ This work pioneers exploring and building powerful  Multilingual Math Reasoning 
 - **MathOctopus**, our effective Multilingual Math Reasoning  LLMs,  training with  different strategies, which notably outperform conventional open-source LLMs and exhibit superiority over ChatGPT in few-shot scenarios.
 
 
+### News
+
+- [2024/01] We are adding Mistral LLM experiments, Please wait patiently!
+
+
 
 # 🐙🐙**MathOctopus** 🐙🐙
 This repo contains the code, data, and models for "[**Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations**](https://arxiv.org/abs/2310.20246)"
