@@ -129,6 +129,7 @@ We evaluate our models in two datasets: MGSM and MSVAMP
 | MathOctopus<sup>P</sup>-LoRA    | 30.4    | 15.2    | 23.6    | 10.4    | 22.8    | 24.8    | 26.4    | 18.0    | 22.0    | 14.8    | 20.8    |
 | MathOctopus<sup>P</sup>         | 46.5    | 40.1    | 42.5    | 29.1    | 43.5    | 45.4    | 46.0    | 42.5    | 45.4    | 35.7    | 41.7    |
 | **xRFT**-MathOctopus<sup>P</sup>| 46.8    | 42.3    | 43.2    | 32.8    | 43.1    | 44.5    | 45.3    | 43.2    | 42.1    | 40.5    | 42.4    |
+|**MathOctopus<sup>P</sup>-Mistral**|		49.7|41.2|	43.1|	36.7	|46.4	|47|	49|	41.5	|44|	40.2|	43.9|
 <p></p >
 
 | 13B Model                       | En      | Sw      | Zh      | Bn      | De      | Es      | Fr      | Ja      | Ru      | Th      | Overall |
@@ -154,6 +155,7 @@ We evaluate our models in two datasets: MGSM and MSVAMP
 | LLaMA 2-7B                      | 42.4    | 38.3    |
 | MathOctopus<sup>P</sup>-7B      | 49.3    | 46.8    |
 | MathOctopus<sup>C</sup>-7B      | 50.8    | 49.3    |
+|**MathOctopus<sup>P</sup>-Mistral**|57.1| 49.7|
 | LLaMA 2-13B                     | 51.0    | 50.9    |
 | MathOctopus<sup>P</sup>-13B     | 55.5    | 52.1    |
 | MathOctopus<sup>C</sup>-13B     | 56.6    | 56.6    |
