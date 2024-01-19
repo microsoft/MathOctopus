@@ -13,7 +13,7 @@ This work pioneers exploring and building powerful  Multilingual Math Reasoning 
 
 ### News
 
-- [2024/01] We are adding Mistral LLM experiments, Please wait patiently!
+- [2024/01] We add Mistral LLM  as our backbone, which achieves the SOTA results in Multilingual Math Reasoning, which achieves about **50.2** and **43.9** on MGSM and MSVAMP.
 
 
 
