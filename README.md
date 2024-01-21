@@ -13,7 +13,7 @@ This work pioneers exploring and building powerful  Multilingual Math Reasoning 
 
 ### News
 
-- [2024/01]  🔥 🔥 We add Mistral LLM  as our backbone, which achieves the SOTA results among open-source LLMs in Multilingual Math Reasoning, which achieves about **50.2** and **43.9** on MGSM and MSVAMP.
+- [2024/01]  🔥 🔥 We add **Mistral LLM**  as our backbone, which achieves the SOTA results among open-source LLMs in Multilingual Math Reasoning, which achieves about **50.2** and **43.9** on MGSM and MSVAMP. See [**HF Checkpoint**](https://huggingface.co/Mathoctopus/Mistral_Parallel_7B)
 
 
 
@@ -80,6 +80,7 @@ Or you can directly download them in our data folder.
 |-----	|---------------------------------------------------------------	|---------------------------------------------------------------------------	|
 | 7B-LLaMA 2  	| 🐙 [MathOctopus-Parallel-7B](https://huggingface.co/Mathoctopus/Parallel_7B)   	| 🐙 [MathOctopus-Cross-7B](https://huggingface.co/Mathoctopus/Cross_7B)  	|
 || 🐙[MathOctopus-Parallel-xRFT-7B](https://huggingface.co/Mathoctopus/Parallel_xRFT_7B)|🐙[MathOctopus-Cross-xRFT-7B](https://huggingface.co/Mathoctopus/Cross_xRFT_7B)|
+|Mistral-7B| 🐙[MathOctopus-Parallel-7B](https://huggingface.co/Mathoctopus/Mistral_Parallel_7B)||
 | 13B-LLaMA 2 	| 🐙 [MathOctopus-Parallel-13B](https://huggingface.co/Mathoctopus/Parallel_13B/tree/main) 	| 🐙 [MathOctopus-Cross-13B](https://huggingface.co/Mathoctopus/Cross_13B)	|
 || 🐙[MathOctopus-Parallel-xRFT-13B](https://huggingface.co/Mathoctopus/Parallel_xRFT_13B)|🐙[MathOctopus-Cross-xRFT-13B](https://huggingface.co/Mathoctopus/Cross_xRFT_13B/tree/main)|
 | 33B-LLaMA 1 	| 🐙 [MathOctopus-Parallel-33B](https://huggingface.co/Mathoctopus/Parallel_33B/tree/main)                                                           	| 🐙 [MathOctopus-Cross-33B](https://huggingface.co/Mathoctopus/Cross_33B/tree/main) 	|
