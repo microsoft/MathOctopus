@@ -12,7 +12,7 @@ This work pioneers exploring and building powerful  Multilingual Math Reasoning 
 
 
 ### News
-
+- [2024/01]  🔥 🔥 We are adding our MathInstruct-RFT data. Please patient.
 - [2024/01]  🔥 🔥 We add **Mistral LLM**  as our backbone, which achieves the SOTA results among open-source LLMs in Multilingual Math Reasoning, which achieves about **50.2** and **43.9** on MGSM and MSVAMP. See [**HF Checkpoint**](https://huggingface.co/Mathoctopus/Mistral_Parallel_7B)
 
 
