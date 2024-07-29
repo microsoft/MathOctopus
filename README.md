@@ -61,10 +61,10 @@ Our collected MGSM8KInstruct training dataset and MSVAMP testset both contain 10
 
 #### Usage
 
-Our dataset and models will be all available at Huggingface, soon!
+Our dataset and models are available at Huggingface!
 
-🦑🦑🦑🦑
-<!--
+🦑🦑🦑
+
 
 🤗 [MGSM8KInstruct_Parallel Dataset](https://huggingface.co/datasets/Mathoctopus/GSM8KInstruct_Parallel)
 
@@ -72,8 +72,8 @@ Our dataset and models will be all available at Huggingface, soon!
 
 🤗 [MSVAMP Dataset](https://huggingface.co/datasets/Mathoctopus/MSVAMP)
 
--->
-Or you can directly download them in our data folder.
+
+
 
 ##  🤗Models
 |  Base Model: LLama   	| Parallel-Training                                         	| Cross-Training                                                       	|
